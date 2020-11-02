@@ -10,7 +10,4 @@ def list_dwarves(array)
     formatted_index_num = index_num.to_s + ". " 
     print formatted_index_num + item
   end
-  # Use `each_with_index` to enumerate over the provided array
-  #
-  # Print a numbered list of each element
 end
